@@ -1,0 +1,7 @@
+{
+  "name": "launchnow",
+  "private": true,
+  "version": "1.0.0",
+  "description": "LaunchNow — today's news, told like a story. Static generator.",
+  "scripts": { "build": "node build.js" }
+}
